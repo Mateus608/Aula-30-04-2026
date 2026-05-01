@@ -1,5 +1,29 @@
 # Case Sequência x Classe
 
+## Melhoria da View `usuario_view`
+
+A classe foi melhorada visualmente sem alterar sua estrutura ou funcionamento, garantindo compatibilidade total com o restante do sistema.
+
+### Principais melhorias
+
+* **Organização visual**: uso de linhas (`=` e `-`) para separar seções
+* **Ícones (emojis)**: interface mais amigável e intuitiva
+* **Melhor formatação**: dados dos usuários mais alinhados e fáceis de ler
+* **Feedback ao usuário**: mensagem quando não há usuários cadastrados
+* **Títulos mais claros**: seções mais descritivas
+* **Destaque de mensagens**: melhor visualização de avisos e ações
+* **Entrada de dados destacada**: área de criação de usuário mais clara
+
+---
+
+### Resultado
+
+✔ Interface mais bonita
+✔ Melhor experiência no terminal
+✔ Código continua simples e compatível
+
+---
+
 ## Estrutura de Pastas
 ```
 project/
