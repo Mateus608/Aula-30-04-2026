@@ -19,8 +19,10 @@ project/
 ```
 
  ## Diagrama de Classes (PlantUML)
- ![Uploading Diagrama de Classes (PlantUML).png…]()
+ <img width="334" height="539" alt="Diagrama de Classes (PlantUML)" src="https://github.com/user-attachments/assets/660376de-efdb-4622-b2b2-2577bdfdf6c4" />
+
 
  ## Diagrama de Sequência – Criar Usuário (PlantUML)
 
- ![Uploading Diagrama de Sequência – Criar Usuário (PlantUML).png…]()
+ <img width="814" height="531" alt="Diagrama de Sequência – Criar Usuário (PlantUML)" src="https://github.com/user-attachments/assets/82830338-04e3-4158-991d-af442a16fb4a" />
+
